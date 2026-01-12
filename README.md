@@ -5,7 +5,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Morenikeji Azeez 🤓, an aspiring Data Analyst & Data Scientist passionate about using data to solve problems and create impact.I am currenly building skills in data analysis, visualization, and machine learning through hands-on projects in HR analytics, customer service, and business operations.
+Hello! I'm Morenikeji Azeez 🤓, an aspiring Data Analyst & Data Scientist passionate about using data to solve problems and create impact.I am currently building skills in data analysis, visualization, and machine learning through hands-on projects in HR analytics, customer service, and business operations.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -78,7 +78,6 @@ This project is a ML model that classifies Iris flower based on physical propert
 *Let’s connect and see how we can make a difference together!*
 <table>
 <tbody>
-<tr>
 <td>📧</td>
 <td><a href="mailto:morenikejiazeez75@gmail.com">morenikejiazeez75@gmail.com</a></td>
 </tr>
