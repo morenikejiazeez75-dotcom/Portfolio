@@ -62,8 +62,15 @@ This project explores rainfall patterns in Lagos by examining long-term trends, 
 
 This dashboard analyzes employee attrition patterns to identify key drivers of turnover across departments, roles, and demographics, supporting better retention strategies.
 
-[Read More](https://github.com/morenikejiazeez75-dotcom)
+[Read More](https://github.com/morenikejiazeez75-dotcom/Portfolio#hr-attrition-dashboard)
 
+
+**Sales Analysis Dashboard.**
+![image](Screenshot%202026-01-13%20103147%20sales%20.png)
+
+This dashboard provides a comprehensive view of business sales performance across revenue, growth, and product distribution.
+
+[Read More](https://github.com/morenikejiazeez75-dotcom/Portfolio#sales-dashboard)
 
 **Machine Learning classification of Iris flower.**
 
