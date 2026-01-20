@@ -73,8 +73,7 @@ This dashboard provides a comprehensive view of business sales performance acros
 [Read More](https://github.com/morenikejiazeez75-dotcom/Portfolio#sales-dashboard)
 
 **EU Food Saferty Rejection Analysis Dashboard.**
-
-![EU Dashboard](EU%20dashboard.png)
+![image]EU dashboard.png)
 
 This analysis reveals that EU food rejections are driven largely by product risk category, country of origin, and strict border enforcement actions
 
