@@ -72,9 +72,13 @@ This dashboard provides a comprehensive view of business sales performance acros
 
 [Read More](https://github.com/morenikejiazeez75-dotcom/Portfolio#sales-dashboard)
 
-**Machine Learning classification of Iris flower.**
+**EU Food Saferty Rejection Analysis Dashboard.**
 
-![image](Screenshot%202026-01-12%20155033%20ML.png)
+![image]EU dashboard.png)
+
+This analysis reveals that EU food rejections are driven largely by product risk category, country of origin, and strict border enforcement actions
+
+**Machine Learning classification of Iris flower.**
 
 This project is a ML model that classifies Iris flower based on physical properties
 
