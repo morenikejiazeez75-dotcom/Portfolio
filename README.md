@@ -84,6 +84,16 @@ This project is a ML model that classifies Iris flower based on physical propert
 
 [Read More](https://github.com/morenikejiazeez75-dotcom)
 
+## 📌 Featured Projects
+
+### 1. Queen’s College Staff Digital Needs Assessment  
+🔗 View Project Folder  
+https://github.com/morenikejiazeez75-dotcom/Portfolio/tree/main/queens-college-digital-needs  
+
+### 2. Diabetes Prediction Machine Learning Project  
+🔗 View Project Folder  
+https://github.com/morenikejiazeez75-dotcom/Portfolio/tree/main/diabetes-ml-project  
+
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
