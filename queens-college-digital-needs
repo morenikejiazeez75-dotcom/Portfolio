@@ -1,0 +1,84 @@
+# 📊 Queen’s College Staff Digital Needs Assessment  
+**A Power BI Project by Morenikeji Azeez**
+
+This project analyzes the digital literacy levels, challenges, and technology needs of staff at **Queen’s College**, providing data-driven insights to support better training, infrastructure planning, and digital adoption strategies.
+
+---
+
+## 📌 Project Overview  
+The goal of this project was to understand:  
+- Staff digital skill levels  
+- Access to digital tools  
+- Areas where training is needed  
+- Barriers to adopting modern technologies  
+- Overall readiness for digital transformation
+
+The analysis was done using:  
+- **Google Forms** (data collection)  
+- **Excel** (cleaning + preprocessing)  
+- **Power BI** (analysis + dashboards)
+
+---
+
+## 🧹 Data Cleaning & Preparation  
+Before visualization, the dataset was cleaned to ensure accuracy:
+
+- Removed duplicates  
+- Standardized inconsistent entries  
+- Replaced blanks with meaningful values  
+- Normalized categorical data for easy analysis  
+- Validated form responses  
+- Ensured correct data types for Power BI modeling
+
+---
+
+## 📈 Dashboard Overview  
+The final dashboard provides:
+
+### ✔ Digital Literacy Distribution  
+Shows beginner, intermediate, and advanced skill levels.
+
+### ✔ Access to Digital Tools  
+Laptop / Internet / Software availability among staff.
+
+### ✔ Training Needs  
+Top areas where staff request more support (e.g., Microsoft Office, LMS usage, online collaboration).
+
+### ✔ Challenges Identified  
+Poor connectivity, lack of devices, limited digital experience, etc.
+
+### ✔ Recommendations  
+Data-driven suggestions to improve digital capacity.
+
+---
+
+## 🖼 Screenshots  
+*(Insert your dashboard screenshot here)*
+
+---
+
+## 🔍 Key Insights  
+- Most staff fall within the **intermediate** digital literacy level.  
+- There are clear gaps in **software proficiency** and **online collaboration tools**.  
+- Internet connectivity remains a major challenge.  
+- Many staff are open to digital training if properly supported.
+
+---
+
+## 🧭 Recommendations  
+- Develop structured digital literacy training programs.  
+- Improve access to laptops and stable connectivity.  
+- Adopt digital tools with user-friendly onboarding.  
+- Provide continuous support and refresher sessions.
+
+---
+
+## 🛠 Tools Used  
+- Google Forms  
+- Excel  
+- Power BI  
+
+---
+
+## 📁 Project Folder  
+All files related to this project are included in this folder (dashboard screenshot).
