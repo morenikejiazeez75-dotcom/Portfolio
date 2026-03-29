@@ -1,0 +1,96 @@
+# 🧬 Diabetes Prediction Machine Learning Model  
+**A Machine Learning Project by Morenikeji Azeez**
+
+This project applies **Logistic Regression** to predict the likelihood of diabetes based on health indicators such as glucose levels, BMI, pregnancies, and age.  
+The goal is to build a simple but effective model for early risk detection.
+
+---
+
+## 📌 Project Overview  
+This project walks through all major ML steps:
+
+1. Data loading  
+2. Data cleaning  
+3. Exploratory analysis  
+4. Feature selection  
+5. Logistic Regression model  
+6. Performance metrics  
+7. Results interpretation
+
+All code is available in the Jupyter notebook included in this repository.
+
+---
+
+## 🧹 Data Cleaning  
+The dataset required several preprocessing steps:
+
+- Handled missing values  
+- Replaced zero-values in key features  
+- Standardized numeric columns  
+- Normalized skewed values  
+- Split data into training and testing sets  
+
+---
+
+## ⚙️ Model Used — Logistic Regression  
+Logistic Regression was selected because:
+
+- It is lightweight and interpretable  
+- Works well for binary classification  
+- Provides clear probability outputs  
+- Easy to tune and evaluate  
+
+The model predicts diabetes as **Yes/No** based on health attributes.
+
+---
+
+## 📊 Model Metrics  
+The following metrics were calculated:
+
+- **Accuracy Score**  
+- **Classification Report**  
+- **Confusion Matrix**  
+- **Precision, Recall & F1 Score**
+
+This helps assess the model’s ability to correctly classify diabetic vs non-diabetic individuals.
+
+---
+
+## 🧪 Key Findings  
+- Glucose level is the strongest predictor  
+- BMI and Age also have strong relationships  
+- The model performs reliably with balanced accuracy  
+- Misclassifications mostly occur in borderline cases
+
+---
+
+## 📈 Visualizations  
+The notebook includes:
+
+- ROC Curve  
+- Confusion Matrix  
+- Feature importance interpretation  
+
+---
+
+## 📁 Files Included  
+- `diabetes_prediction.ipynb` (Jupyter notebook)  
+- Flashcards PDF  
+- Presentation Script PDF  
+- Model explanation  
+- Supporting screenshots  
+
+---
+
+## 🛠 Tools Used  
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Matplotlib  
+
+---
+
+## 🧭 Conclusion  
+This project demonstrates how logistic regression can be used to assist early medical risk assessment.  
+It is simple, interpretable, and effective for classification problems.
