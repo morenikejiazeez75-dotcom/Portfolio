@@ -94,7 +94,7 @@ https://github.com/morenikejiazeez75-dotcom/Portfolio/tree/main/queens-college-d
 🔗 View Project Folder  
 https://github.com/morenikejiazeez75-dotcom/Portfolio/tree/main/diabetes-ml-project  
 
-###3. Restaurant Machine Learning Prediction Project
+3. Restaurant Machine Learning Prediction Project
    🔗 View Project Folder
    https://github.com/morenikejiazeez75-dotcom/Restaurant-ML-Prediction-Project
 
